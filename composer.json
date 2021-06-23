@@ -1,5 +1,5 @@
 {
-    "name": "test/core",
+    "name": "testweb/core",
     "description": "test composer",
     "minimum-stability": "beta",
     "require": {}
